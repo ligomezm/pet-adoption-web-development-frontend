@@ -7,6 +7,8 @@ Proyecto desarrollado con fines educativos por los integrantes del grupo # 2 - P
 - Liliana Gómez - gomez.liliana333@gmail.com
 - Camilo Zaque - zaquecamilo@gmail.com
 
+Se desarrolla usando HTML, CSS, JS y Vue.
+
 ### Descripción del proyecto
 - A diario cientos de mascotas son abandonadas a lo largo del país, cifra que ha incrementado durante la pandemia en Colombia. Ayudando a que esta problemática no se convierta en una emergencia sanitaria, surge esta plataforma que ayudará a reubicar mascotas en nuevos hogares disminuyendo tanto la situación de abandono en las calles de nuestro país como también el periodo de permanencia de las mascotas en un refugio por medio de un proceso de adopción sencillo y eficiente. 
 
