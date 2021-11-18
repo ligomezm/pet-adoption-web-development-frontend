@@ -9,6 +9,8 @@ Proyecto desarrollado con fines educativos por los integrantes del grupo # 2 - P
 
 Se desarrolla usando HTML, CSS, JS y Vue.
 
+Despliegue en Heroku: https://adoptlife-fe.herokuapp.com/ (Se incluyen algunas imágenes más adelante)
+
 ### Descripción del proyecto
 - A diario cientos de mascotas son abandonadas a lo largo del país, cifra que ha incrementado durante la pandemia en Colombia. Ayudando a que esta problemática no se convierta en una emergencia sanitaria, surge esta plataforma que ayudará a reubicar mascotas en nuevos hogares disminuyendo tanto la situación de abandono en las calles de nuestro país como también el periodo de permanencia de las mascotas en un refugio por medio de un proceso de adopción sencillo y eficiente. 
 
@@ -39,3 +41,8 @@ npm run build
 
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
+
+![image](https://user-images.githubusercontent.com/83715511/142324878-bf8b9cba-96fc-4a8d-8caf-f7fd4bae206e.png)
+![image](https://user-images.githubusercontent.com/83715511/142325398-72de807b-3c62-40c5-ab07-2f8fa9a8ea7a.png)
+![image](https://user-images.githubusercontent.com/83715511/142326087-c13bdd64-edaa-42ab-b01a-79e58ea1ec1b.png)
+
